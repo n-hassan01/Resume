@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/EPaNPEEwl/videoblocks-shot-of-stressed-business-man-in-the-office_sjv1u69im_thumbnail-1080_01.png); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+
+}
+
+h1{
+    color: black;
+    font-family: Arial;
+    text-align: center;
+    text-shadow: burlywood;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+h3{
+    font-family: Verdana;
+    text-align: center;
+    text-shadow: burlywood;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+p{
+    text-align: right;
+}
+div{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+}
